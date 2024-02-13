@@ -21,6 +21,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   mockito: ^5.4.4
   build_runner: ^2.4.8
+  test_cov_console: ^0.2.2
 
 flutter:
   uses-material-design: true
